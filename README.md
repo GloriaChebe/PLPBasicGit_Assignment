@@ -1,1 +1,1 @@
-# PLPBasicGit_Assignment
+Project name and Description: Chatbot solution in the banking system. I need to create a chatbot system for KCB bank which will be integrated with the banking app where the user can inquire for transaction, balances, loans services and others.
